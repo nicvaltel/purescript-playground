@@ -1,0 +1,24 @@
+
+-- Build with PureScript: Jordan's Reference
+https://jordanmartinez.github.io/purescript-jordans-reference-site/content/03-Build-Tools/02-Spago--Project-Workflow.html
+
+-- PureScript by Example
+https://book.purescript.org/chapter2.html
+
+-- PureScript Cookbook (Signals) For examples of games rendered to the canvas, see the "Behavior" and "Signal" recipes in the cookbook.
+https://github.com/JordanMartinez/purescript-cookbook/blob/master/README.md#recipes
+
+
+-- I ended up just using the canvas for https://GitHub.com/hdgarrood/multipac and I was pretty happy with that approach. Having said that, this was back when purescript was at v0.6 so a LOT has changed since then. I think canvas should still be a credible option but others may be better.
+https://github.com/hdgarrood/multipac
+
+
+-- PureScript-Resources Documentation
+https://purescript-resources.readthedocs.io/_/downloads/en/latest/pdf/
+
+-- Snake in Purescript
+https://holdenlee.github.io/blog/posts/programming/purescript/snake-in-purescript.html#the-model-update-view-signal-architecture
+
+
+-- Signal (Links to Mario and MyLittlePonny)
+https://pursuit.purescript.org/packages/purescript-signal/13.0.0
