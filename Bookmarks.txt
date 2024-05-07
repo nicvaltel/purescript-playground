@@ -22,3 +22,6 @@ https://holdenlee.github.io/blog/posts/programming/purescript/snake-in-purescrip
 
 -- Signal (Links to Mario and MyLittlePonny)
 https://pursuit.purescript.org/packages/purescript-signal/13.0.0
+
+-- Example of usage of web-socket package
+https://github.com/purescript-halogen/purescript-halogen/tree/master/examples/driver-websockets
