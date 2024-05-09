@@ -60,7 +60,7 @@
       });
     };
   };
-  var _addEventListenerMessageRecievedSignal = function(socket) {
+  var _addEventListenerMessageRecieved = function(socket) {
     return function(signalFunc) {
       return function() {
         socket.addEventListener("message", (event) => {
@@ -164,7 +164,7 @@
   var addListenerWSMessageToSignal = function(socket) {
     return function __do2() {
       var chan = channel("")();
-      _addEventListenerMessageRecievedSignal(socket)(function(msg) {
+      _addEventListenerMessageRecieved(socket)(function(msg) {
         return send(chan)(msg);
       })();
       return subscribe(chan);
