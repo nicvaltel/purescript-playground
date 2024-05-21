@@ -59,6 +59,5 @@ in
 ## example of usage https://github.com/purescript-halogen/purescript-halogen/tree/master/examples/driver-websockets
 
 
-## spago build
-## bower install purescript-websocket-simple  , "effect"
-## npm install ws
+## FOR Format Document in VS Code
+## npm install purty
